@@ -1,1 +1,1 @@
-# wings-install
+# Install script for Pterodactyl wings
