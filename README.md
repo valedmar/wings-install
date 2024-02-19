@@ -3,7 +3,7 @@
 ## Requirements:
 - Certbot
 
-Installing:
+### Installing:
 ./install FQDN mail && sudo wings configure [wings token stuff] && sudo systemctl restart wings 
 
 - FQDN is the Fully Qualified Domain Name of the node, used for Let's Encrypt and ssl certs.

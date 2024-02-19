@@ -2,7 +2,6 @@
 # Valedmar3301
 
 #setup
-panelDomain="https://panel.orehub.net"
 FQDN=$1 # FQDN of node
 if [[ $1 = '' ]]; then
   echo "*** no FQDN of node set as first arg."
